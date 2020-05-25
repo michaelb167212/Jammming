@@ -7,9 +7,9 @@ A spotify react app, allows user to create a spotify playlist and save it to the
 
 future features:
 
-  ##pull existing playlists from user account to be edited and uploaded.
+  ##Pull existing playlists from user account to be edited and uploaded.
   
-  ##allow users to listen to saved playlists from app. 
+  ##Allow users to listen to saved playlists from app. 
 
 ## Available Scripts
 
