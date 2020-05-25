@@ -9,7 +9,7 @@ future features:
 
   ##pull existing playlists from user account to be edited and uploaded.
   
-  ##allow users to listed to selected playlists from app. 
+  ##allow users to listen to saved playlists from app. 
 
 ## Available Scripts
 
