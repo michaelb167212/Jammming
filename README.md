@@ -1,4 +1,13 @@
+Michael Barreto
+michaelb167212@gmail.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+A spotify react app, allows user to create a spotify playlist and save it to there spotify account.
+
+future features:
+  # pull existing playlists from user account to be edited and uploaded.
+  # allow users to listed to selected playlists from app. 
 
 ## Available Scripts
 
