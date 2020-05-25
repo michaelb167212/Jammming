@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A spotify react app, allows user to create a spotify playlist and save it to there spotify account.
 
+skills: used html, css, react, javascript
+
 future features:
 
   ##Pull existing playlists from user account to be edited and uploaded.
