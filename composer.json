@@ -1,0 +1,13 @@
+{
+    "name": "michaelb/jammming",
+    "description": "React app using the spotify api to create playlists for users.",
+    "authors": [
+        {
+            "name": "michael barreto",
+            "email": "michael167212@gmainl.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "~1.0"
+    }
+}
